@@ -5,7 +5,7 @@ This repo contains source code for "Formality Style Transfer with Hybrid Textual
 The software is built upon `fairseq`, follow the instruction on this [link](https://github.com/pytorch/fairseq) for installation
 
 # Data
-The preprocessed data could be downloaded from [this link]().
+The preprocessed data could be downloaded from [this link](https://drive.google.com/file/d/1d00ABIDg5fQnPkm65xuowuCquv37aFRs/view?usp=sharing).
 
 # Usage
 
